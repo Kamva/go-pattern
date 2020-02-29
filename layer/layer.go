@@ -1,6 +1,6 @@
 package layerpattern
 
-// Layer is specific Design pattern that make layer of things (e.g layered service)
+// Layer is a design pattern to make layered services,...
 // e.g validation->sanitizer->guard->core
 // all layers implements same interface (e.g Service interface)
 type Layer interface {

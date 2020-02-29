@@ -1,4 +1,4 @@
-#### kitty contain services kit.
+#### kitty-pattern contain Go design patters
 
 #### Todo:
 - [ ] Write Tests
