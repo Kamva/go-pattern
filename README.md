@@ -1,4 +1,4 @@
-#### kitty-pattern contain Go design patters
+#### kitty-pattern contains Go design patters
 
 #### Todo:
 - [ ] Write Tests
