@@ -1,3 +1,3 @@
-module github.com/Kamva/pattern
+module github.com/Kamva/go-pattern
 
 go 1.13
