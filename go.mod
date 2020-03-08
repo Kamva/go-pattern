@@ -1,3 +1,3 @@
-module github.com/Kamva/kitty-pattern
+module github.com/Kamva/pattern
 
 go 1.13
